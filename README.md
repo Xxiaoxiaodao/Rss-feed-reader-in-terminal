@@ -24,3 +24,4 @@ Show the content in plain text
  
  ##Suggested languages and frameworks
   Ruby Python Node.js
+![Red Circle](data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMDAgMTAwIiBmaWxsPSJyZWQiPiAgPGNpcmNsZSBjeD0iNTAiIGN5PSI1MCIgcj0iNDAiIGZpbGw9InJlZCIgLz4gPC9zdmc+)
